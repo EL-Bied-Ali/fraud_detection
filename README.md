@@ -22,4 +22,4 @@ This repository demonstrates a complete end-to-end solution for detecting fraudu
 **How to Use**  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<YourUsername>/<RepoName>.git
+   git clone https://github.com/EL-Bied-Ali/fraud_detection.git
